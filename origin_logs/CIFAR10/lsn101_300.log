@@ -1,0 +1,2703 @@
+nohup: ignoring input
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch [1/300], Step [600/1562], Loss: 1369.26216
+Time elasped: 240.9678087234497
+Epoch [1/300], Step [1200/1562], Loss: 1291.05783
+Time elasped: 471.38341450691223
+ Acc: 16.40600
+Iters: 0 
+
+
+Test Accuracy of the model on the 10000 test images: 20.420
+Epoch [2/300], Step [600/1562], Loss: 1222.70572
+Time elasped: 237.71437668800354
+Epoch [2/300], Step [1200/1562], Loss: 1185.51032
+Time elasped: 475.99078273773193
+ Acc: 23.94000
+Iters: 1 
+
+
+Test Accuracy of the model on the 10000 test images: 26.830
+Epoch [3/300], Step [600/1562], Loss: 1141.25411
+Time elasped: 236.34690141677856
+Epoch [3/300], Step [1200/1562], Loss: 1115.67234
+Time elasped: 465.93680334091187
+ Acc: 30.08200
+Iters: 2 
+
+
+Test Accuracy of the model on the 10000 test images: 37.380
+Epoch [4/300], Step [600/1562], Loss: 1038.19058
+Time elasped: 224.98829317092896
+Epoch [4/300], Step [1200/1562], Loss: 978.28583
+Time elasped: 449.0775020122528
+ Acc: 39.03200
+Iters: 3 
+
+
+Test Accuracy of the model on the 10000 test images: 45.990
+Epoch [5/300], Step [600/1562], Loss: 895.08707
+Time elasped: 246.06191086769104
+Epoch [5/300], Step [1200/1562], Loss: 850.15030
+Time elasped: 500.6322183609009
+ Acc: 47.16600
+Iters: 4 
+
+
+Test Accuracy of the model on the 10000 test images: 47.700
+Epoch [6/300], Step [600/1562], Loss: 781.94237
+Time elasped: 232.21150398254395
+Epoch [6/300], Step [1200/1562], Loss: 734.45577
+Time elasped: 457.8042447566986
+ Acc: 55.45800
+Iters: 5 
+
+
+Test Accuracy of the model on the 10000 test images: 59.720
+Epoch [7/300], Step [600/1562], Loss: 672.17451
+Time elasped: 225.72629308700562
+Epoch [7/300], Step [1200/1562], Loss: 632.53741
+Time elasped: 470.9660439491272
+ Acc: 61.92400
+Iters: 6 
+
+
+Test Accuracy of the model on the 10000 test images: 62.740
+Epoch [8/300], Step [600/1562], Loss: 589.13055
+Time elasped: 281.0201539993286
+Epoch [8/300], Step [1200/1562], Loss: 565.60434
+Time elasped: 571.5173833370209
+ Acc: 66.56400
+Iters: 7 
+
+
+Test Accuracy of the model on the 10000 test images: 69.130
+Epoch [9/300], Step [600/1562], Loss: 522.09779
+Time elasped: 277.24257731437683
+Epoch [9/300], Step [1200/1562], Loss: 503.95856
+Time elasped: 580.7790565490723
+ Acc: 70.10800
+Iters: 8 
+
+
+Test Accuracy of the model on the 10000 test images: 71.950
+Epoch [10/300], Step [600/1562], Loss: 457.26448
+Time elasped: 326.34679412841797
+Epoch [10/300], Step [1200/1562], Loss: 451.36576
+Time elasped: 637.2571444511414
+ Acc: 73.80400
+Iters: 9 
+
+
+Test Accuracy of the model on the 10000 test images: 77.060
+Epoch [11/300], Step [600/1562], Loss: 414.94173
+Time elasped: 299.48745131492615
+Epoch [11/300], Step [1200/1562], Loss: 400.66057
+Time elasped: 619.3517639636993
+ Acc: 76.73600
+Iters: 10 
+
+
+Test Accuracy of the model on the 10000 test images: 77.380
+Epoch [12/300], Step [600/1562], Loss: 367.32114
+Time elasped: 309.81361174583435
+Epoch [12/300], Step [1200/1562], Loss: 370.61177
+Time elasped: 600.5887310504913
+ Acc: 78.84200
+Iters: 11 
+
+
+Test Accuracy of the model on the 10000 test images: 78.640
+Epoch [13/300], Step [600/1562], Loss: 347.28615
+Time elasped: 290.57454562187195
+Epoch [13/300], Step [1200/1562], Loss: 337.63133
+Time elasped: 619.640638589859
+ Acc: 80.20400
+Iters: 12 
+
+
+Test Accuracy of the model on the 10000 test images: 79.830
+Epoch [14/300], Step [600/1562], Loss: 315.43950
+Time elasped: 298.1723847389221
+Epoch [14/300], Step [1200/1562], Loss: 322.22274
+Time elasped: 595.830225944519
+ Acc: 81.84600
+Iters: 13 
+
+
+Test Accuracy of the model on the 10000 test images: 82.730
+Epoch [15/300], Step [600/1562], Loss: 297.86094
+Time elasped: 297.97633028030396
+Epoch [15/300], Step [1200/1562], Loss: 299.27924
+Time elasped: 596.6290097236633
+ Acc: 82.70800
+Iters: 14 
+
+
+Test Accuracy of the model on the 10000 test images: 82.630
+Epoch [16/300], Step [600/1562], Loss: 282.80579
+Time elasped: 298.0049796104431
+Epoch [16/300], Step [1200/1562], Loss: 281.90663
+Time elasped: 595.6202869415283
+ Acc: 83.78400
+Iters: 15 
+
+
+Test Accuracy of the model on the 10000 test images: 83.130
+Epoch [17/300], Step [600/1562], Loss: 262.99773
+Time elasped: 295.96086859703064
+Epoch [17/300], Step [1200/1562], Loss: 262.62475
+Time elasped: 594.2578620910645
+ Acc: 84.80600
+Iters: 16 
+
+
+Test Accuracy of the model on the 10000 test images: 83.760
+Epoch [18/300], Step [600/1562], Loss: 246.61611
+Time elasped: 293.9428207874298
+Epoch [18/300], Step [1200/1562], Loss: 253.09976
+Time elasped: 599.6961574554443
+ Acc: 85.42600
+Iters: 17 
+
+
+Test Accuracy of the model on the 10000 test images: 83.220
+Epoch [19/300], Step [600/1562], Loss: 240.93540
+Time elasped: 319.55381655693054
+Epoch [19/300], Step [1200/1562], Loss: 241.42894
+Time elasped: 651.3759398460388
+ Acc: 86.19200
+Iters: 18 
+
+
+Test Accuracy of the model on the 10000 test images: 85.990
+Epoch [20/300], Step [600/1562], Loss: 227.53078
+Time elasped: 289.2799234390259
+Epoch [20/300], Step [1200/1562], Loss: 234.05928
+Time elasped: 581.8924882411957
+ Acc: 86.63000
+Iters: 19 
+
+
+Test Accuracy of the model on the 10000 test images: 85.810
+Epoch [21/300], Step [600/1562], Loss: 220.23315
+Time elasped: 291.20996952056885
+Epoch [21/300], Step [1200/1562], Loss: 220.64032
+Time elasped: 580.8439753055573
+ Acc: 87.46800
+Iters: 20 
+
+
+Test Accuracy of the model on the 10000 test images: 85.780
+Epoch [22/300], Step [600/1562], Loss: 211.29137
+Time elasped: 291.09256744384766
+Epoch [22/300], Step [1200/1562], Loss: 218.02587
+Time elasped: 578.2452404499054
+ Acc: 87.42200
+Iters: 21 
+
+
+Test Accuracy of the model on the 10000 test images: 86.530
+Epoch [23/300], Step [600/1562], Loss: 203.50195
+Time elasped: 286.58401894569397
+Epoch [23/300], Step [1200/1562], Loss: 205.32192
+Time elasped: 574.4757232666016
+ Acc: 88.25400
+Iters: 22 
+
+
+Test Accuracy of the model on the 10000 test images: 86.960
+Epoch [24/300], Step [600/1562], Loss: 192.46940
+Time elasped: 287.0029447078705
+Epoch [24/300], Step [1200/1562], Loss: 202.03058
+Time elasped: 605.3227069377899
+ Acc: 88.48600
+Iters: 23 
+
+
+Test Accuracy of the model on the 10000 test images: 86.420
+Epoch [25/300], Step [600/1562], Loss: 183.54082
+Time elasped: 305.7689378261566
+Epoch [25/300], Step [1200/1562], Loss: 196.02446
+Time elasped: 619.0880239009857
+ Acc: 88.88600
+Iters: 24 
+
+
+Test Accuracy of the model on the 10000 test images: 87.130
+Epoch [26/300], Step [600/1562], Loss: 180.24303
+Time elasped: 290.23632645606995
+Epoch [26/300], Step [1200/1562], Loss: 180.14879
+Time elasped: 578.8556954860687
+ Acc: 89.37000
+Iters: 25 
+
+
+Test Accuracy of the model on the 10000 test images: 87.300
+Epoch [27/300], Step [600/1562], Loss: 178.82664
+Time elasped: 288.4483902454376
+Epoch [27/300], Step [1200/1562], Loss: 178.02580
+Time elasped: 574.5515782833099
+ Acc: 89.50000
+Iters: 26 
+
+
+Test Accuracy of the model on the 10000 test images: 88.090
+Epoch [28/300], Step [600/1562], Loss: 171.55409
+Time elasped: 289.01950097084045
+Epoch [28/300], Step [1200/1562], Loss: 176.98611
+Time elasped: 574.961510181427
+ Acc: 89.74200
+Iters: 27 
+
+
+Test Accuracy of the model on the 10000 test images: 86.950
+Epoch [29/300], Step [600/1562], Loss: 163.98178
+Time elasped: 290.80034732818604
+Epoch [29/300], Step [1200/1562], Loss: 171.14725
+Time elasped: 577.4797515869141
+ Acc: 90.09400
+Iters: 28 
+
+
+Test Accuracy of the model on the 10000 test images: 87.320
+Epoch [30/300], Step [600/1562], Loss: 156.95722
+Time elasped: 314.19459772109985
+Epoch [30/300], Step [1200/1562], Loss: 164.24789
+Time elasped: 634.7517809867859
+ Acc: 90.43600
+Iters: 29 
+
+
+Test Accuracy of the model on the 10000 test images: 87.630
+Epoch [31/300], Step [600/1562], Loss: 158.82900
+Time elasped: 314.5637938976288
+Epoch [31/300], Step [1200/1562], Loss: 158.34276
+Time elasped: 612.0341236591339
+ Acc: 90.58400
+Iters: 30 
+
+
+Test Accuracy of the model on the 10000 test images: 88.360
+Epoch [32/300], Step [600/1562], Loss: 152.82596
+Time elasped: 298.6919686794281
+Epoch [32/300], Step [1200/1562], Loss: 158.25234
+Time elasped: 594.8884887695312
+ Acc: 90.88600
+Iters: 31 
+
+
+Test Accuracy of the model on the 10000 test images: 89.090
+Epoch [33/300], Step [600/1562], Loss: 142.28559
+Time elasped: 298.72366428375244
+Epoch [33/300], Step [1200/1562], Loss: 153.76311
+Time elasped: 595.0233714580536
+ Acc: 91.28600
+Iters: 32 
+
+
+Test Accuracy of the model on the 10000 test images: 87.210
+Epoch [34/300], Step [600/1562], Loss: 147.60151
+Time elasped: 300.8215115070343
+Epoch [34/300], Step [1200/1562], Loss: 146.39337
+Time elasped: 601.419207572937
+ Acc: 91.38800
+Iters: 33 
+
+
+Test Accuracy of the model on the 10000 test images: 88.370
+Epoch [35/300], Step [600/1562], Loss: 136.74450
+Time elasped: 297.98368644714355
+Epoch [35/300], Step [1200/1562], Loss: 145.63806
+Time elasped: 593.383712053299
+ Acc: 91.71400
+Iters: 34 
+
+
+Test Accuracy of the model on the 10000 test images: 88.430
+Epoch [36/300], Step [600/1562], Loss: 129.80073
+Time elasped: 323.56093430519104
+Epoch [36/300], Step [1200/1562], Loss: 143.50073
+Time elasped: 624.3522391319275
+ Acc: 91.89800
+Iters: 35 
+
+
+Test Accuracy of the model on the 10000 test images: 89.350
+Epoch [37/300], Step [600/1562], Loss: 131.98955
+Time elasped: 288.916836977005
+Epoch [37/300], Step [1200/1562], Loss: 142.02745
+Time elasped: 578.6183297634125
+ Acc: 92.01200
+Iters: 36 
+
+
+Test Accuracy of the model on the 10000 test images: 89.390
+Epoch [38/300], Step [600/1562], Loss: 127.79432
+Time elasped: 287.918035030365
+Epoch [38/300], Step [1200/1562], Loss: 135.09031
+Time elasped: 575.4856190681458
+ Acc: 92.17800
+Iters: 37 
+
+
+Test Accuracy of the model on the 10000 test images: 89.080
+Epoch [39/300], Step [600/1562], Loss: 123.04869
+Time elasped: 289.14751172065735
+Epoch [39/300], Step [1200/1562], Loss: 133.02850
+Time elasped: 577.2434406280518
+ Acc: 92.28800
+Iters: 38 
+
+
+Test Accuracy of the model on the 10000 test images: 89.080
+Epoch [40/300], Step [600/1562], Loss: 126.65890
+Time elasped: 284.4645149707794
+Epoch [40/300], Step [1200/1562], Loss: 128.05794
+Time elasped: 568.7316329479218
+ Acc: 92.63200
+Iters: 39 
+
+
+Test Accuracy of the model on the 10000 test images: 89.620
+Epoch [41/300], Step [600/1562], Loss: 119.00992
+Time elasped: 285.84849286079407
+Epoch [41/300], Step [1200/1562], Loss: 131.58662
+Time elasped: 578.2109644412994
+ Acc: 92.63800
+Iters: 40 
+
+
+Test Accuracy of the model on the 10000 test images: 89.870
+Epoch [42/300], Step [600/1562], Loss: 119.60239
+Time elasped: 303.66837787628174
+Epoch [42/300], Step [1200/1562], Loss: 124.03495
+Time elasped: 614.6664566993713
+ Acc: 92.79400
+Iters: 41 
+
+
+Test Accuracy of the model on the 10000 test images: 88.640
+Epoch [43/300], Step [600/1562], Loss: 116.82810
+Time elasped: 288.71753787994385
+Epoch [43/300], Step [1200/1562], Loss: 120.75422
+Time elasped: 577.7933750152588
+ Acc: 92.90200
+Iters: 42 
+
+
+Test Accuracy of the model on the 10000 test images: 89.470
+Epoch [44/300], Step [600/1562], Loss: 111.01894
+Time elasped: 286.68307995796204
+Epoch [44/300], Step [1200/1562], Loss: 119.21624
+Time elasped: 574.7218091487885
+ Acc: 93.03400
+Iters: 43 
+
+
+Test Accuracy of the model on the 10000 test images: 89.620
+Epoch [45/300], Step [600/1562], Loss: 107.77872
+Time elasped: 286.87008237838745
+Epoch [45/300], Step [1200/1562], Loss: 117.16077
+Time elasped: 574.1109626293182
+ Acc: 93.29400
+Iters: 44 
+
+
+Test Accuracy of the model on the 10000 test images: 89.420
+Epoch [46/300], Step [600/1562], Loss: 109.03047
+Time elasped: 287.5837972164154
+Epoch [46/300], Step [1200/1562], Loss: 116.68162
+Time elasped: 573.5585782527924
+ Acc: 93.40400
+Iters: 45 
+
+
+Test Accuracy of the model on the 10000 test images: 89.900
+Epoch [47/300], Step [600/1562], Loss: 106.57677
+Time elasped: 289.077880859375
+Epoch [47/300], Step [1200/1562], Loss: 112.21777
+Time elasped: 600.281418800354
+ Acc: 93.48800
+Iters: 46 
+
+
+Test Accuracy of the model on the 10000 test images: 89.960
+Epoch [48/300], Step [600/1562], Loss: 106.06259
+Time elasped: 300.150279045105
+Epoch [48/300], Step [1200/1562], Loss: 110.05002
+Time elasped: 603.0137593746185
+ Acc: 93.64600
+Iters: 47 
+
+
+Test Accuracy of the model on the 10000 test images: 89.430
+Epoch [49/300], Step [600/1562], Loss: 99.54014
+Time elasped: 287.17188692092896
+Epoch [49/300], Step [1200/1562], Loss: 109.81225
+Time elasped: 574.0299589633942
+ Acc: 93.80200
+Iters: 48 
+
+
+Test Accuracy of the model on the 10000 test images: 89.230
+Epoch [50/300], Step [600/1562], Loss: 101.42996
+Time elasped: 288.2987380027771
+Epoch [50/300], Step [1200/1562], Loss: 108.22526
+Time elasped: 571.8633713722229
+ Acc: 93.85800
+Iters: 49 
+
+
+Test Accuracy of the model on the 10000 test images: 90.340
+Epoch [51/300], Step [600/1562], Loss: 100.59314
+Time elasped: 289.6926517486572
+Epoch [51/300], Step [1200/1562], Loss: 98.64563
+Time elasped: 577.3788723945618
+ Acc: 94.05200
+Iters: 50 
+
+
+Test Accuracy of the model on the 10000 test images: 90.030
+Epoch [52/300], Step [600/1562], Loss: 92.00054
+Time elasped: 283.9011538028717
+Epoch [52/300], Step [1200/1562], Loss: 103.62400
+Time elasped: 570.4636960029602
+ Acc: 94.17800
+Iters: 51 
+
+
+Test Accuracy of the model on the 10000 test images: 89.040
+Epoch [53/300], Step [600/1562], Loss: 97.14838
+Time elasped: 284.29060316085815
+Epoch [53/300], Step [1200/1562], Loss: 99.93989
+Time elasped: 594.9972560405731
+ Acc: 94.14600
+Iters: 52 
+
+
+Test Accuracy of the model on the 10000 test images: 89.890
+Epoch [54/300], Step [600/1562], Loss: 91.75951
+Time elasped: 292.6187732219696
+Epoch [54/300], Step [1200/1562], Loss: 97.16514
+Time elasped: 602.0161910057068
+ Acc: 94.36200
+Iters: 53 
+
+
+Test Accuracy of the model on the 10000 test images: 90.360
+Epoch [55/300], Step [600/1562], Loss: 90.04191
+Time elasped: 286.10273361206055
+Epoch [55/300], Step [1200/1562], Loss: 93.49189
+Time elasped: 571.726686000824
+ Acc: 94.46200
+Iters: 54 
+
+
+Test Accuracy of the model on the 10000 test images: 89.990
+Epoch [56/300], Step [600/1562], Loss: 89.98572
+Time elasped: 286.71282148361206
+Epoch [56/300], Step [1200/1562], Loss: 94.87808
+Time elasped: 571.4855358600616
+ Acc: 94.46000
+Iters: 55 
+
+
+Test Accuracy of the model on the 10000 test images: 90.350
+Epoch [57/300], Step [600/1562], Loss: 84.94823
+Time elasped: 284.67897295951843
+Epoch [57/300], Step [1200/1562], Loss: 89.87499
+Time elasped: 570.6622452735901
+ Acc: 94.71400
+Iters: 56 
+
+
+Test Accuracy of the model on the 10000 test images: 90.640
+Epoch [58/300], Step [600/1562], Loss: 86.40951
+Time elasped: 285.31155276298523
+Epoch [58/300], Step [1200/1562], Loss: 93.34413
+Time elasped: 571.2362697124481
+ Acc: 94.64000
+Iters: 57 
+
+
+Test Accuracy of the model on the 10000 test images: 91.030
+Epoch [59/300], Step [600/1562], Loss: 83.30014
+Time elasped: 287.6786832809448
+Epoch [59/300], Step [1200/1562], Loss: 91.41081
+Time elasped: 599.9146401882172
+ Acc: 94.77200
+Iters: 58 
+
+
+Test Accuracy of the model on the 10000 test images: 89.300
+Epoch [60/300], Step [600/1562], Loss: 85.63213
+Time elasped: 288.2556834220886
+Epoch [60/300], Step [1200/1562], Loss: 89.34779
+Time elasped: 599.3550362586975
+ Acc: 94.68200
+Iters: 59 
+
+
+Test Accuracy of the model on the 10000 test images: 90.020
+Epoch [61/300], Step [600/1562], Loss: 79.06661
+Time elasped: 286.3568902015686
+Epoch [61/300], Step [1200/1562], Loss: 89.28113
+Time elasped: 575.1906583309174
+ Acc: 95.00200
+Iters: 60 
+
+
+Test Accuracy of the model on the 10000 test images: 90.390
+Epoch [62/300], Step [600/1562], Loss: 77.43764
+Time elasped: 287.51311445236206
+Epoch [62/300], Step [1200/1562], Loss: 89.22471
+Time elasped: 576.7511949539185
+ Acc: 94.98000
+Iters: 61 
+
+
+Test Accuracy of the model on the 10000 test images: 90.530
+Epoch [63/300], Step [600/1562], Loss: 77.73203
+Time elasped: 288.21759247779846
+Epoch [63/300], Step [1200/1562], Loss: 89.90148
+Time elasped: 574.70863032341
+ Acc: 95.00600
+Iters: 62 
+
+
+Test Accuracy of the model on the 10000 test images: 90.890
+Epoch [64/300], Step [600/1562], Loss: 76.24126
+Time elasped: 287.6709520816803
+Epoch [64/300], Step [1200/1562], Loss: 87.60988
+Time elasped: 572.8672478199005
+ Acc: 95.09600
+Iters: 63 
+
+
+Test Accuracy of the model on the 10000 test images: 90.620
+Epoch [65/300], Step [600/1562], Loss: 74.52093
+Time elasped: 274.393762588501
+Epoch [65/300], Step [1200/1562], Loss: 88.50416
+Time elasped: 613.3383390903473
+ Acc: 95.03800
+Iters: 64 
+
+
+Test Accuracy of the model on the 10000 test images: 90.590
+Epoch [66/300], Step [600/1562], Loss: 71.53324
+Time elasped: 303.0139241218567
+Epoch [66/300], Step [1200/1562], Loss: 82.75729
+Time elasped: 593.8068211078644
+ Acc: 95.28400
+Iters: 65 
+
+
+Test Accuracy of the model on the 10000 test images: 90.630
+Epoch [67/300], Step [600/1562], Loss: 74.41688
+Time elasped: 287.56362295150757
+Epoch [67/300], Step [1200/1562], Loss: 75.20248
+Time elasped: 577.7093629837036
+ Acc: 95.37800
+Iters: 66 
+
+
+Test Accuracy of the model on the 10000 test images: 90.940
+Epoch [68/300], Step [600/1562], Loss: 72.39603
+Time elasped: 287.7343008518219
+Epoch [68/300], Step [1200/1562], Loss: 81.71278
+Time elasped: 574.4856731891632
+ Acc: 95.34800
+Iters: 67 
+
+
+Test Accuracy of the model on the 10000 test images: 90.340
+Epoch [69/300], Step [600/1562], Loss: 69.00746
+Time elasped: 290.97343707084656
+Epoch [69/300], Step [1200/1562], Loss: 81.81867
+Time elasped: 578.7104322910309
+ Acc: 95.43400
+Iters: 68 
+
+
+Test Accuracy of the model on the 10000 test images: 90.890
+Epoch [70/300], Step [600/1562], Loss: 75.17054
+Time elasped: 288.5712215900421
+Epoch [70/300], Step [1200/1562], Loss: 75.76903
+Time elasped: 575.5871891975403
+ Acc: 95.51400
+Iters: 69 
+
+
+Test Accuracy of the model on the 10000 test images: 91.300
+Epoch [71/300], Step [600/1562], Loss: 71.23080
+Time elasped: 308.96368980407715
+Epoch [71/300], Step [1200/1562], Loss: 77.71880
+Time elasped: 620.5622184276581
+ Acc: 95.49800
+Iters: 70 
+
+
+Test Accuracy of the model on the 10000 test images: 90.330
+Epoch [72/300], Step [600/1562], Loss: 67.89637
+Time elasped: 299.57914686203003
+Epoch [72/300], Step [1200/1562], Loss: 72.12799
+Time elasped: 586.8680787086487
+ Acc: 95.67000
+Iters: 71 
+
+
+Test Accuracy of the model on the 10000 test images: 90.730
+Epoch [73/300], Step [600/1562], Loss: 68.63820
+Time elasped: 286.4371769428253
+Epoch [73/300], Step [1200/1562], Loss: 76.20113
+Time elasped: 573.7341003417969
+ Acc: 95.62000
+Iters: 72 
+
+
+Test Accuracy of the model on the 10000 test images: 91.070
+Epoch [74/300], Step [600/1562], Loss: 66.95687
+Time elasped: 287.15027928352356
+Epoch [74/300], Step [1200/1562], Loss: 74.34775
+Time elasped: 570.5305635929108
+ Acc: 95.73200
+Iters: 73 
+
+
+Test Accuracy of the model on the 10000 test images: 91.010
+Epoch [75/300], Step [600/1562], Loss: 63.22281
+Time elasped: 288.4360957145691
+Epoch [75/300], Step [1200/1562], Loss: 74.67042
+Time elasped: 574.2889304161072
+ Acc: 95.75200
+Iters: 74 
+
+
+Test Accuracy of the model on the 10000 test images: 90.790
+Epoch [76/300], Step [600/1562], Loss: 58.47124
+Time elasped: 286.79454708099365
+Epoch [76/300], Step [1200/1562], Loss: 68.17768
+Time elasped: 573.3232600688934
+ Acc: 96.03000
+Iters: 75 
+
+
+Test Accuracy of the model on the 10000 test images: 91.310
+Epoch [77/300], Step [600/1562], Loss: 60.88117
+Time elasped: 321.34482073783875
+Epoch [77/300], Step [1200/1562], Loss: 71.10454
+Time elasped: 627.1572968959808
+ Acc: 95.95400
+Iters: 76 
+
+
+Test Accuracy of the model on the 10000 test images: 91.400
+Epoch [78/300], Step [600/1562], Loss: 66.00408
+Time elasped: 301.31058955192566
+Epoch [78/300], Step [1200/1562], Loss: 72.64844
+Time elasped: 587.5871064662933
+ Acc: 95.90200
+Iters: 77 
+
+
+Test Accuracy of the model on the 10000 test images: 90.930
+Epoch [79/300], Step [600/1562], Loss: 58.94524
+Time elasped: 287.180282831192
+Epoch [79/300], Step [1200/1562], Loss: 69.62482
+Time elasped: 577.4519438743591
+ Acc: 96.05400
+Iters: 78 
+
+
+Test Accuracy of the model on the 10000 test images: 90.850
+Epoch [80/300], Step [600/1562], Loss: 58.31847
+Time elasped: 286.6614053249359
+Epoch [80/300], Step [1200/1562], Loss: 69.20053
+Time elasped: 573.0847856998444
+ Acc: 96.12800
+Iters: 79 
+
+
+Test Accuracy of the model on the 10000 test images: 91.310
+Epoch [81/300], Step [600/1562], Loss: 58.63020
+Time elasped: 298.4577326774597
+Epoch [81/300], Step [1200/1562], Loss: 68.29827
+Time elasped: 596.6218175888062
+ Acc: 96.25600
+Iters: 80 
+
+
+Test Accuracy of the model on the 10000 test images: 91.470
+Epoch [82/300], Step [600/1562], Loss: 63.24439
+Time elasped: 310.7077054977417
+Epoch [82/300], Step [1200/1562], Loss: 65.28909
+Time elasped: 625.3138508796692
+ Acc: 96.29800
+Iters: 81 
+
+
+Test Accuracy of the model on the 10000 test images: 91.250
+Epoch [83/300], Step [600/1562], Loss: 63.06739
+Time elasped: 373.46352076530457
+Epoch [83/300], Step [1200/1562], Loss: 65.11133
+Time elasped: 710.4519264698029
+ Acc: 96.12400
+Iters: 82 
+
+
+Test Accuracy of the model on the 10000 test images: 90.850
+Epoch [84/300], Step [600/1562], Loss: 59.75038
+Time elasped: 312.7474036216736
+Epoch [84/300], Step [1200/1562], Loss: 63.99946
+Time elasped: 621.6073880195618
+ Acc: 96.35000
+Iters: 83 
+
+
+Test Accuracy of the model on the 10000 test images: 91.430
+Epoch [85/300], Step [600/1562], Loss: 60.15157
+Time elasped: 320.661963224411
+Epoch [85/300], Step [1200/1562], Loss: 63.03010
+Time elasped: 629.059424161911
+ Acc: 96.26800
+Iters: 84 
+
+
+Test Accuracy of the model on the 10000 test images: 90.630
+Epoch [86/300], Step [600/1562], Loss: 58.66844
+Time elasped: 303.1702036857605
+Epoch [86/300], Step [1200/1562], Loss: 61.93834
+Time elasped: 600.2011866569519
+ Acc: 96.43400
+Iters: 85 
+
+
+Test Accuracy of the model on the 10000 test images: 90.860
+Epoch [87/300], Step [600/1562], Loss: 56.86774
+Time elasped: 294.3314106464386
+Epoch [87/300], Step [1200/1562], Loss: 62.40479
+Time elasped: 605.1934313774109
+ Acc: 96.42600
+Iters: 86 
+
+
+Test Accuracy of the model on the 10000 test images: 90.630
+Epoch [88/300], Step [600/1562], Loss: 57.10226
+Time elasped: 303.87621808052063
+Epoch [88/300], Step [1200/1562], Loss: 62.32286
+Time elasped: 606.1245532035828
+ Acc: 96.47200
+Iters: 87 
+
+
+Test Accuracy of the model on the 10000 test images: 89.170
+Epoch [89/300], Step [600/1562], Loss: 59.05154
+Time elasped: 358.19573163986206
+Epoch [89/300], Step [1200/1562], Loss: 60.96254
+Time elasped: 698.0643706321716
+ Acc: 96.42200
+Iters: 88 
+
+
+Test Accuracy of the model on the 10000 test images: 91.230
+Epoch [90/300], Step [600/1562], Loss: 53.04458
+Time elasped: 310.8503403663635
+Epoch [90/300], Step [1200/1562], Loss: 61.93987
+Time elasped: 615.5614240169525
+ Acc: 96.68400
+Iters: 89 
+
+
+Test Accuracy of the model on the 10000 test images: 91.070
+Epoch [91/300], Step [600/1562], Loss: 52.40217
+Time elasped: 301.06673789024353
+Epoch [91/300], Step [1200/1562], Loss: 61.38934
+Time elasped: 603.6356301307678
+ Acc: 96.56200
+Iters: 90 
+
+
+Test Accuracy of the model on the 10000 test images: 90.430
+Epoch [92/300], Step [600/1562], Loss: 56.94759
+Time elasped: 302.93938517570496
+Epoch [92/300], Step [1200/1562], Loss: 51.67225
+Time elasped: 608.0874824523926
+ Acc: 96.64800
+Iters: 91 
+
+
+Test Accuracy of the model on the 10000 test images: 91.260
+Epoch [93/300], Step [600/1562], Loss: 54.74076
+Time elasped: 299.42522263526917
+Epoch [93/300], Step [1200/1562], Loss: 56.42533
+Time elasped: 594.4155676364899
+ Acc: 96.69200
+Iters: 92 
+
+
+Test Accuracy of the model on the 10000 test images: 91.090
+Epoch [94/300], Step [600/1562], Loss: 50.53460
+Time elasped: 893.8310604095459
+Epoch [94/300], Step [1200/1562], Loss: 59.73261
+Time elasped: 1194.6761960983276
+ Acc: 96.72200
+Iters: 93 
+
+
+Test Accuracy of the model on the 10000 test images: 91.080
+Epoch [95/300], Step [600/1562], Loss: 50.75546
+Time elasped: 347.4087088108063
+Epoch [95/300], Step [1200/1562], Loss: 57.66076
+Time elasped: 680.7023432254791
+ Acc: 96.79400
+Iters: 94 
+
+
+Test Accuracy of the model on the 10000 test images: 91.580
+Epoch [96/300], Step [600/1562], Loss: 48.92958
+Time elasped: 324.52994751930237
+Epoch [96/300], Step [1200/1562], Loss: 56.52823
+Time elasped: 632.3462319374084
+ Acc: 96.78000
+Iters: 95 
+
+
+Test Accuracy of the model on the 10000 test images: 91.070
+Epoch [97/300], Step [600/1562], Loss: 47.55975
+Time elasped: 306.2852909564972
+Epoch [97/300], Step [1200/1562], Loss: 53.99019
+Time elasped: 600.6842167377472
+ Acc: 96.91800
+Iters: 96 
+
+
+Test Accuracy of the model on the 10000 test images: 90.380
+Epoch [98/300], Step [600/1562], Loss: 48.85713
+Time elasped: 293.41183137893677
+Epoch [98/300], Step [1200/1562], Loss: 56.17688
+Time elasped: 586.3384189605713
+ Acc: 96.87600
+Iters: 97 
+
+
+Test Accuracy of the model on the 10000 test images: 90.760
+Epoch [99/300], Step [600/1562], Loss: 47.21718
+Time elasped: 292.58130621910095
+Epoch [99/300], Step [1200/1562], Loss: 53.60443
+Time elasped: 579.5622220039368
+ Acc: 96.91200
+Iters: 98 
+
+
+Test Accuracy of the model on the 10000 test images: 90.970
+Epoch [100/300], Step [600/1562], Loss: 47.17223
+Time elasped: 290.34002780914307
+Epoch [100/300], Step [1200/1562], Loss: 51.39267
+Time elasped: 578.3772494792938
+ Acc: 96.95200
+Iters: 99 
+
+
+Test Accuracy of the model on the 10000 test images: 91.900
+Epoch [101/300], Step [600/1562], Loss: 51.65694
+Time elasped: 342.5131690502167
+Epoch [101/300], Step [1200/1562], Loss: 52.75935
+Time elasped: 641.0856337547302
+ Acc: 96.90400
+Iters: 100 
+
+
+Test Accuracy of the model on the 10000 test images: 90.280
+Epoch [102/300], Step [600/1562], Loss: 48.74309
+Time elasped: 281.6258420944214
+Epoch [102/300], Step [1200/1562], Loss: 47.76134
+Time elasped: 556.7707467079163
+ Acc: 97.10600
+Iters: 101 
+
+
+Test Accuracy of the model on the 10000 test images: 91.360
+Epoch [103/300], Step [600/1562], Loss: 45.71866
+Time elasped: 276.46045994758606
+Epoch [103/300], Step [1200/1562], Loss: 53.35872
+Time elasped: 551.9884605407715
+ Acc: 97.10400
+Iters: 102 
+
+
+Test Accuracy of the model on the 10000 test images: 91.770
+Epoch [104/300], Step [600/1562], Loss: 45.78148
+Time elasped: 276.7344903945923
+Epoch [104/300], Step [1200/1562], Loss: 49.53138
+Time elasped: 551.1677761077881
+ Acc: 97.08800
+Iters: 103 
+
+
+Test Accuracy of the model on the 10000 test images: 91.490
+Epoch [105/300], Step [600/1562], Loss: 47.36739
+Time elasped: 275.623637676239
+Epoch [105/300], Step [1200/1562], Loss: 48.32248
+Time elasped: 552.6123774051666
+ Acc: 97.22000
+Iters: 104 
+
+
+Test Accuracy of the model on the 10000 test images: 91.880
+Epoch [106/300], Step [600/1562], Loss: 38.00298
+Time elasped: 275.9078359603882
+Epoch [106/300], Step [1200/1562], Loss: 49.27761
+Time elasped: 550.3226749897003
+ Acc: 97.39800
+Iters: 105 
+
+
+Test Accuracy of the model on the 10000 test images: 91.650
+Epoch [107/300], Step [600/1562], Loss: 47.71265
+Time elasped: 297.3020181655884
+Epoch [107/300], Step [1200/1562], Loss: 48.72638
+Time elasped: 586.6597697734833
+ Acc: 97.07000
+Iters: 106 
+
+
+Test Accuracy of the model on the 10000 test images: 91.540
+Epoch [108/300], Step [600/1562], Loss: 40.66945
+Time elasped: 292.2369484901428
+Epoch [108/300], Step [1200/1562], Loss: 47.77351
+Time elasped: 584.0009052753448
+ Acc: 97.31600
+Iters: 107 
+
+
+Test Accuracy of the model on the 10000 test images: 91.540
+Epoch [109/300], Step [600/1562], Loss: 43.13648
+Time elasped: 288.1276969909668
+Epoch [109/300], Step [1200/1562], Loss: 47.72151
+Time elasped: 569.2195022106171
+ Acc: 97.41800
+Iters: 108 
+
+
+Test Accuracy of the model on the 10000 test images: 91.450
+Epoch [110/300], Step [600/1562], Loss: 39.81749
+Time elasped: 280.1809551715851
+Epoch [110/300], Step [1200/1562], Loss: 48.37361
+Time elasped: 560.0059003829956
+ Acc: 97.39400
+Iters: 109 
+
+
+Test Accuracy of the model on the 10000 test images: 91.580
+Epoch [111/300], Step [600/1562], Loss: 38.27760
+Time elasped: 282.0601634979248
+Epoch [111/300], Step [1200/1562], Loss: 47.40855
+Time elasped: 561.7754180431366
+ Acc: 97.34400
+Iters: 110 
+
+
+Test Accuracy of the model on the 10000 test images: 91.880
+Epoch [112/300], Step [600/1562], Loss: 36.62797
+Time elasped: 280.82319831848145
+Epoch [112/300], Step [1200/1562], Loss: 45.31714
+Time elasped: 572.5134642124176
+ Acc: 97.52400
+Iters: 111 
+
+
+Test Accuracy of the model on the 10000 test images: 90.890
+Epoch [113/300], Step [600/1562], Loss: 42.03751
+Time elasped: 303.89083981513977
+Epoch [113/300], Step [1200/1562], Loss: 47.34892
+Time elasped: 613.6306130886078
+ Acc: 97.40200
+Iters: 112 
+
+
+Test Accuracy of the model on the 10000 test images: 91.840
+Epoch [114/300], Step [600/1562], Loss: 40.55739
+Time elasped: 297.54920291900635
+Epoch [114/300], Step [1200/1562], Loss: 44.43319
+Time elasped: 594.4728109836578
+ Acc: 97.42400
+Iters: 113 
+
+
+Test Accuracy of the model on the 10000 test images: 91.140
+Epoch [115/300], Step [600/1562], Loss: 42.64032
+Time elasped: 297.0963065624237
+Epoch [115/300], Step [1200/1562], Loss: 42.25943
+Time elasped: 590.6863014698029
+ Acc: 97.52800
+Iters: 114 
+
+
+Test Accuracy of the model on the 10000 test images: 91.690
+Epoch [116/300], Step [600/1562], Loss: 37.80584
+Time elasped: 294.7486791610718
+Epoch [116/300], Step [1200/1562], Loss: 44.68288
+Time elasped: 589.3008267879486
+ Acc: 97.60800
+Iters: 115 
+
+
+Test Accuracy of the model on the 10000 test images: 90.890
+Epoch [117/300], Step [600/1562], Loss: 37.69838
+Time elasped: 295.35165309906006
+Epoch [117/300], Step [1200/1562], Loss: 43.72277
+Time elasped: 588.2862021923065
+ Acc: 97.52600
+Iters: 116 
+
+
+Test Accuracy of the model on the 10000 test images: 91.630
+Epoch [118/300], Step [600/1562], Loss: 38.29904
+Time elasped: 319.0240201950073
+Epoch [118/300], Step [1200/1562], Loss: 40.50224
+Time elasped: 638.2731359004974
+ Acc: 97.65400
+Iters: 117 
+
+
+Test Accuracy of the model on the 10000 test images: 91.420
+Epoch [119/300], Step [600/1562], Loss: 37.50134
+Time elasped: 311.22041964530945
+Epoch [119/300], Step [1200/1562], Loss: 42.60180
+Time elasped: 607.6685607433319
+ Acc: 97.57200
+Iters: 118 
+
+
+Test Accuracy of the model on the 10000 test images: 92.110
+Epoch [120/300], Step [600/1562], Loss: 36.15825
+Time elasped: 296.2435522079468
+Epoch [120/300], Step [1200/1562], Loss: 41.06860
+Time elasped: 591.1193444728851
+ Acc: 97.69200
+Iters: 119 
+
+
+Test Accuracy of the model on the 10000 test images: 91.440
+Epoch [121/300], Step [600/1562], Loss: 37.17754
+Time elasped: 295.7837209701538
+Epoch [121/300], Step [1200/1562], Loss: 43.29337
+Time elasped: 590.8128588199615
+ Acc: 97.62400
+Iters: 120 
+
+
+Test Accuracy of the model on the 10000 test images: 91.850
+Epoch [122/300], Step [600/1562], Loss: 37.65165
+Time elasped: 296.57755160331726
+Epoch [122/300], Step [1200/1562], Loss: 41.95308
+Time elasped: 591.185467004776
+ Acc: 97.60200
+Iters: 121 
+
+
+Test Accuracy of the model on the 10000 test images: 91.800
+Epoch [123/300], Step [600/1562], Loss: 34.59194
+Time elasped: 306.3643960952759
+Epoch [123/300], Step [1200/1562], Loss: 38.93001
+Time elasped: 609.8776774406433
+ Acc: 97.78600
+Iters: 122 
+
+
+Test Accuracy of the model on the 10000 test images: 91.900
+Epoch [124/300], Step [600/1562], Loss: 35.64611
+Time elasped: 350.8054573535919
+Epoch [124/300], Step [1200/1562], Loss: 37.09878
+Time elasped: 673.0854690074921
+ Acc: 97.73000
+Iters: 123 
+
+
+Test Accuracy of the model on the 10000 test images: 91.880
+Epoch [125/300], Step [600/1562], Loss: 32.70813
+Time elasped: 295.7163622379303
+Epoch [125/300], Step [1200/1562], Loss: 38.66732
+Time elasped: 590.1981635093689
+ Acc: 97.86200
+Iters: 124 
+
+
+Test Accuracy of the model on the 10000 test images: 91.910
+Epoch [126/300], Step [600/1562], Loss: 37.03586
+Time elasped: 295.24506306648254
+Epoch [126/300], Step [1200/1562], Loss: 32.33348
+Time elasped: 588.4271252155304
+ Acc: 97.92800
+Iters: 125 
+
+
+Test Accuracy of the model on the 10000 test images: 92.420
+Epoch [127/300], Step [600/1562], Loss: 36.07668
+Time elasped: 293.18074226379395
+Epoch [127/300], Step [1200/1562], Loss: 38.72199
+Time elasped: 582.8578295707703
+ Acc: 97.81400
+Iters: 126 
+
+
+Test Accuracy of the model on the 10000 test images: 92.660
+Epoch [128/300], Step [600/1562], Loss: 34.12480
+Time elasped: 304.8936746120453
+Epoch [128/300], Step [1200/1562], Loss: 35.74548
+Time elasped: 610.2373595237732
+ Acc: 97.98600
+Iters: 127 
+
+
+Test Accuracy of the model on the 10000 test images: 91.410
+Epoch [129/300], Step [600/1562], Loss: 33.99569
+Time elasped: 305.4745635986328
+Epoch [129/300], Step [1200/1562], Loss: 34.56054
+Time elasped: 632.3047907352448
+ Acc: 97.89400
+Iters: 128 
+
+
+Test Accuracy of the model on the 10000 test images: 91.920
+Epoch [130/300], Step [600/1562], Loss: 33.02611
+Time elasped: 326.00499200820923
+Epoch [130/300], Step [1200/1562], Loss: 34.81225
+Time elasped: 652.8122434616089
+ Acc: 98.00200
+Iters: 129 
+
+
+Test Accuracy of the model on the 10000 test images: 91.840
+Epoch [131/300], Step [600/1562], Loss: 32.19695
+Time elasped: 307.590078830719
+Epoch [131/300], Step [1200/1562], Loss: 35.08811
+Time elasped: 609.3494346141815
+ Acc: 97.88200
+Iters: 130 
+
+
+Test Accuracy of the model on the 10000 test images: 91.540
+Epoch [132/300], Step [600/1562], Loss: 32.04795
+Time elasped: 306.3936722278595
+Epoch [132/300], Step [1200/1562], Loss: 32.68404
+Time elasped: 609.4620995521545
+ Acc: 97.98400
+Iters: 131 
+
+
+Test Accuracy of the model on the 10000 test images: 92.000
+Epoch [133/300], Step [600/1562], Loss: 31.31591
+Time elasped: 301.9491603374481
+Epoch [133/300], Step [1200/1562], Loss: 36.34094
+Time elasped: 604.6494615077972
+ Acc: 98.00400
+Iters: 132 
+
+
+Test Accuracy of the model on the 10000 test images: 92.430
+Epoch [134/300], Step [600/1562], Loss: 28.78480
+Time elasped: 306.22078466415405
+Epoch [134/300], Step [1200/1562], Loss: 30.88884
+Time elasped: 612.1007719039917
+ Acc: 98.16400
+Iters: 133 
+
+
+Test Accuracy of the model on the 10000 test images: 91.870
+Epoch [135/300], Step [600/1562], Loss: 33.41497
+Time elasped: 332.83080768585205
+Epoch [135/300], Step [1200/1562], Loss: 35.56311
+Time elasped: 653.386878490448
+ Acc: 97.96000
+Iters: 134 
+
+
+Test Accuracy of the model on the 10000 test images: 92.330
+Epoch [136/300], Step [600/1562], Loss: 31.19100
+Time elasped: 301.9085011482239
+Epoch [136/300], Step [1200/1562], Loss: 32.28057
+Time elasped: 596.425803899765
+ Acc: 98.14400
+Iters: 135 
+
+
+Test Accuracy of the model on the 10000 test images: 91.870
+Epoch [137/300], Step [600/1562], Loss: 28.01150
+Time elasped: 293.480092048645
+Epoch [137/300], Step [1200/1562], Loss: 39.44319
+Time elasped: 586.4625198841095
+ Acc: 98.09000
+Iters: 136 
+
+
+Test Accuracy of the model on the 10000 test images: 92.220
+Epoch [138/300], Step [600/1562], Loss: 30.38912
+Time elasped: 294.42770648002625
+Epoch [138/300], Step [1200/1562], Loss: 32.54546
+Time elasped: 586.1510202884674
+ Acc: 98.12600
+Iters: 137 
+
+
+Test Accuracy of the model on the 10000 test images: 91.800
+Epoch [139/300], Step [600/1562], Loss: 28.88438
+Time elasped: 307.56577825546265
+Epoch [139/300], Step [1200/1562], Loss: 31.22125
+Time elasped: 614.1475329399109
+ Acc: 98.28400
+Iters: 138 
+
+
+Test Accuracy of the model on the 10000 test images: 92.340
+Epoch [140/300], Step [600/1562], Loss: 32.44755
+Time elasped: 305.738486289978
+Epoch [140/300], Step [1200/1562], Loss: 30.79763
+Time elasped: 598.7911727428436
+ Acc: 98.08200
+Iters: 139 
+
+
+Test Accuracy of the model on the 10000 test images: 91.710
+Epoch [141/300], Step [600/1562], Loss: 29.04348
+Time elasped: 322.4348909854889
+Epoch [141/300], Step [1200/1562], Loss: 28.32374
+Time elasped: 640.4785459041595
+ Acc: 98.35800
+Iters: 140 
+
+
+Test Accuracy of the model on the 10000 test images: 91.970
+Epoch [142/300], Step [600/1562], Loss: 26.88256
+Time elasped: 294.19529247283936
+Epoch [142/300], Step [1200/1562], Loss: 32.17439
+Time elasped: 586.7328493595123
+ Acc: 98.30600
+Iters: 141 
+
+
+Test Accuracy of the model on the 10000 test images: 92.580
+Epoch [143/300], Step [600/1562], Loss: 26.30024
+Time elasped: 292.72126626968384
+Epoch [143/300], Step [1200/1562], Loss: 30.54298
+Time elasped: 583.9680559635162
+ Acc: 98.25800
+Iters: 142 
+
+
+Test Accuracy of the model on the 10000 test images: 92.000
+Epoch [144/300], Step [600/1562], Loss: 24.65604
+Time elasped: 293.12578558921814
+Epoch [144/300], Step [1200/1562], Loss: 28.65883
+Time elasped: 584.5146248340607
+ Acc: 98.32000
+Iters: 143 
+
+
+Test Accuracy of the model on the 10000 test images: 91.810
+Epoch [145/300], Step [600/1562], Loss: 25.34857
+Time elasped: 307.916380405426
+Epoch [145/300], Step [1200/1562], Loss: 29.51168
+Time elasped: 610.6782956123352
+ Acc: 98.43000
+Iters: 144 
+
+
+Test Accuracy of the model on the 10000 test images: 92.560
+Epoch [146/300], Step [600/1562], Loss: 25.34752
+Time elasped: 300.2843613624573
+Epoch [146/300], Step [1200/1562], Loss: 28.78338
+Time elasped: 645.9013497829437
+ Acc: 98.44400
+Iters: 145 
+
+
+Test Accuracy of the model on the 10000 test images: 92.310
+Epoch [147/300], Step [600/1562], Loss: 29.63626
+Time elasped: 329.0321259498596
+Epoch [147/300], Step [1200/1562], Loss: 26.07958
+Time elasped: 622.2644245624542
+ Acc: 98.31600
+Iters: 146 
+
+
+Test Accuracy of the model on the 10000 test images: 92.230
+Epoch [148/300], Step [600/1562], Loss: 23.19445
+Time elasped: 294.2886109352112
+Epoch [148/300], Step [1200/1562], Loss: 28.60070
+Time elasped: 585.4744443893433
+ Acc: 98.41800
+Iters: 147 
+
+
+Test Accuracy of the model on the 10000 test images: 92.330
+Epoch [149/300], Step [600/1562], Loss: 27.06249
+Time elasped: 293.35465836524963
+Epoch [149/300], Step [1200/1562], Loss: 24.18780
+Time elasped: 585.2058029174805
+ Acc: 98.48400
+Iters: 148 
+
+
+Test Accuracy of the model on the 10000 test images: 92.590
+Epoch [150/300], Step [600/1562], Loss: 28.11864
+Time elasped: 302.2844069004059
+Epoch [150/300], Step [1200/1562], Loss: 27.13291
+Time elasped: 603.8019816875458
+ Acc: 98.49800
+Iters: 149 
+
+
+Test Accuracy of the model on the 10000 test images: 92.380
+Epoch [151/300], Step [600/1562], Loss: 27.32146
+Time elasped: 304.4878556728363
+Epoch [151/300], Step [1200/1562], Loss: 24.33896
+Time elasped: 608.1947124004364
+ Acc: 98.53000
+Iters: 150 
+
+
+Test Accuracy of the model on the 10000 test images: 91.920
+Epoch [152/300], Step [600/1562], Loss: 24.34680
+Time elasped: 350.07906103134155
+Epoch [152/300], Step [1200/1562], Loss: 26.08407
+Time elasped: 667.1649897098541
+ Acc: 98.54800
+Iters: 151 
+
+
+Test Accuracy of the model on the 10000 test images: 91.930
+Epoch [153/300], Step [600/1562], Loss: 24.52118
+Time elasped: 299.174307346344
+Epoch [153/300], Step [1200/1562], Loss: 25.82509
+Time elasped: 597.1019117832184
+ Acc: 98.50400
+Iters: 152 
+
+
+Test Accuracy of the model on the 10000 test images: 92.480
+Epoch [154/300], Step [600/1562], Loss: 24.25717
+Time elasped: 299.23228669166565
+Epoch [154/300], Step [1200/1562], Loss: 23.03870
+Time elasped: 598.8431403636932
+ Acc: 98.65400
+Iters: 153 
+
+
+Test Accuracy of the model on the 10000 test images: 92.490
+Epoch [155/300], Step [600/1562], Loss: 24.07360
+Time elasped: 303.82407212257385
+Epoch [155/300], Step [1200/1562], Loss: 25.27570
+Time elasped: 605.259268283844
+ Acc: 98.55200
+Iters: 154 
+
+
+Test Accuracy of the model on the 10000 test images: 92.200
+Epoch [156/300], Step [600/1562], Loss: 24.08614
+Time elasped: 301.6307170391083
+Epoch [156/300], Step [1200/1562], Loss: 24.53801
+Time elasped: 601.0476331710815
+ Acc: 98.54800
+Iters: 155 
+
+
+Test Accuracy of the model on the 10000 test images: 92.810
+Epoch [157/300], Step [600/1562], Loss: 22.13230
+Time elasped: 303.6780788898468
+Epoch [157/300], Step [1200/1562], Loss: 23.40626
+Time elasped: 631.7779879570007
+ Acc: 98.70800
+Iters: 156 
+
+
+Test Accuracy of the model on the 10000 test images: 92.400
+Epoch [158/300], Step [600/1562], Loss: 21.65555
+Time elasped: 310.08235144615173
+Epoch [158/300], Step [1200/1562], Loss: 25.22972
+Time elasped: 625.3199987411499
+ Acc: 98.65000
+Iters: 157 
+
+
+Test Accuracy of the model on the 10000 test images: 92.830
+Epoch [159/300], Step [600/1562], Loss: 22.21117
+Time elasped: 293.46022748947144
+Epoch [159/300], Step [1200/1562], Loss: 22.94940
+Time elasped: 586.2004897594452
+ Acc: 98.72400
+Iters: 158 
+
+
+Test Accuracy of the model on the 10000 test images: 92.450
+Epoch [160/300], Step [600/1562], Loss: 20.86594
+Time elasped: 291.0848081111908
+Epoch [160/300], Step [1200/1562], Loss: 21.53657
+Time elasped: 583.2038729190826
+ Acc: 98.74400
+Iters: 159 
+
+
+Test Accuracy of the model on the 10000 test images: 92.490
+Epoch [161/300], Step [600/1562], Loss: 20.27269
+Time elasped: 291.67199540138245
+Epoch [161/300], Step [1200/1562], Loss: 24.30924
+Time elasped: 581.344961643219
+ Acc: 98.66600
+Iters: 160 
+
+
+Test Accuracy of the model on the 10000 test images: 92.100
+Epoch [162/300], Step [600/1562], Loss: 21.20922
+Time elasped: 306.06548142433167
+Epoch [162/300], Step [1200/1562], Loss: 24.80475
+Time elasped: 611.5939364433289
+ Acc: 98.66600
+Iters: 161 
+
+
+Test Accuracy of the model on the 10000 test images: 92.530
+Epoch [163/300], Step [600/1562], Loss: 19.10099
+Time elasped: 302.6142144203186
+Epoch [163/300], Step [1200/1562], Loss: 19.06587
+Time elasped: 646.8457274436951
+ Acc: 98.83400
+Iters: 162 
+
+
+Test Accuracy of the model on the 10000 test images: 92.210
+Epoch [164/300], Step [600/1562], Loss: 21.46271
+Time elasped: 313.00439500808716
+Epoch [164/300], Step [1200/1562], Loss: 20.24234
+Time elasped: 624.8711199760437
+ Acc: 98.76400
+Iters: 163 
+
+
+Test Accuracy of the model on the 10000 test images: 92.380
+Epoch [165/300], Step [600/1562], Loss: 20.91945
+Time elasped: 303.2672469615936
+Epoch [165/300], Step [1200/1562], Loss: 20.03965
+Time elasped: 606.4497172832489
+ Acc: 98.80200
+Iters: 164 
+
+
+Test Accuracy of the model on the 10000 test images: 92.880
+Epoch [166/300], Step [600/1562], Loss: 17.65608
+Time elasped: 306.96962428092957
+Epoch [166/300], Step [1200/1562], Loss: 20.09319
+Time elasped: 614.6588704586029
+ Acc: 98.88600
+Iters: 165 
+
+
+Test Accuracy of the model on the 10000 test images: 92.070
+Epoch [167/300], Step [600/1562], Loss: 22.44851
+Time elasped: 307.4263262748718
+Epoch [167/300], Step [1200/1562], Loss: 19.91746
+Time elasped: 612.9433495998383
+ Acc: 98.76400
+Iters: 166 
+
+
+Test Accuracy of the model on the 10000 test images: 92.580
+Epoch [168/300], Step [600/1562], Loss: 18.32623
+Time elasped: 310.5690710544586
+Epoch [168/300], Step [1200/1562], Loss: 19.76573
+Time elasped: 618.144189119339
+ Acc: 98.86600
+Iters: 167 
+
+
+Test Accuracy of the model on the 10000 test images: 92.900
+Epoch [169/300], Step [600/1562], Loss: 18.73241
+Time elasped: 357.7006256580353
+Epoch [169/300], Step [1200/1562], Loss: 20.44455
+Time elasped: 675.2365102767944
+ Acc: 98.85400
+Iters: 168 
+
+
+Test Accuracy of the model on the 10000 test images: 91.710
+Epoch [170/300], Step [600/1562], Loss: 19.66976
+Time elasped: 300.844518661499
+Epoch [170/300], Step [1200/1562], Loss: 19.94609
+Time elasped: 597.3791103363037
+ Acc: 98.86400
+Iters: 169 
+
+
+Test Accuracy of the model on the 10000 test images: 92.400
+Epoch [171/300], Step [600/1562], Loss: 17.90419
+Time elasped: 292.32031416893005
+Epoch [171/300], Step [1200/1562], Loss: 18.14658
+Time elasped: 582.898232460022
+ Acc: 99.00000
+Iters: 170 
+
+
+Test Accuracy of the model on the 10000 test images: 92.790
+Epoch [172/300], Step [600/1562], Loss: 17.38660
+Time elasped: 291.1215772628784
+Epoch [172/300], Step [1200/1562], Loss: 17.60695
+Time elasped: 581.6655764579773
+ Acc: 98.98200
+Iters: 171 
+
+
+Test Accuracy of the model on the 10000 test images: 92.480
+Epoch [173/300], Step [600/1562], Loss: 18.17423
+Time elasped: 307.00430274009705
+Epoch [173/300], Step [1200/1562], Loss: 17.59875
+Time elasped: 612.9505324363708
+ Acc: 98.93800
+Iters: 172 
+
+
+Test Accuracy of the model on the 10000 test images: 92.620
+Epoch [174/300], Step [600/1562], Loss: 16.57829
+Time elasped: 303.8606734275818
+Epoch [174/300], Step [1200/1562], Loss: 17.04604
+Time elasped: 616.1536166667938
+ Acc: 98.93200
+Iters: 173 
+
+
+Test Accuracy of the model on the 10000 test images: 92.890
+Epoch [175/300], Step [600/1562], Loss: 13.58824
+Time elasped: 316.91194558143616
+Epoch [175/300], Step [1200/1562], Loss: 18.55376
+Time elasped: 643.1983361244202
+ Acc: 99.04200
+Iters: 174 
+
+
+Test Accuracy of the model on the 10000 test images: 92.930
+Epoch [176/300], Step [600/1562], Loss: 15.99469
+Time elasped: 304.93942880630493
+Epoch [176/300], Step [1200/1562], Loss: 15.76621
+Time elasped: 609.8032121658325
+ Acc: 99.08200
+Iters: 175 
+
+
+Test Accuracy of the model on the 10000 test images: 92.740
+Epoch [177/300], Step [600/1562], Loss: 17.25460
+Time elasped: 305.8056571483612
+Epoch [177/300], Step [1200/1562], Loss: 15.88512
+Time elasped: 610.6341211795807
+ Acc: 99.07000
+Iters: 176 
+
+
+Test Accuracy of the model on the 10000 test images: 92.660
+Epoch [178/300], Step [600/1562], Loss: 13.79816
+Time elasped: 305.8180932998657
+Epoch [178/300], Step [1200/1562], Loss: 16.74118
+Time elasped: 610.66450715065
+ Acc: 99.07200
+Iters: 177 
+
+
+Test Accuracy of the model on the 10000 test images: 92.720
+Epoch [179/300], Step [600/1562], Loss: 14.54562
+Time elasped: 306.84238934516907
+Epoch [179/300], Step [1200/1562], Loss: 12.24877
+Time elasped: 610.6293821334839
+ Acc: 99.17600
+Iters: 178 
+
+
+Test Accuracy of the model on the 10000 test images: 92.230
+Epoch [180/300], Step [600/1562], Loss: 14.58278
+Time elasped: 331.8994736671448
+Epoch [180/300], Step [1200/1562], Loss: 14.79522
+Time elasped: 657.2525680065155
+ Acc: 99.12600
+Iters: 179 
+
+
+Test Accuracy of the model on the 10000 test images: 93.080
+Epoch [181/300], Step [600/1562], Loss: 14.94084
+Time elasped: 324.158566236496
+Epoch [181/300], Step [1200/1562], Loss: 15.79877
+Time elasped: 626.53972697258
+ Acc: 99.15600
+Iters: 180 
+
+
+Test Accuracy of the model on the 10000 test images: 93.090
+Epoch [182/300], Step [600/1562], Loss: 15.76794
+Time elasped: 303.53083181381226
+Epoch [182/300], Step [1200/1562], Loss: 17.15917
+Time elasped: 604.8806486129761
+ Acc: 99.12000
+Iters: 181 
+
+
+Test Accuracy of the model on the 10000 test images: 93.180
+Epoch [183/300], Step [600/1562], Loss: 12.81537
+Time elasped: 304.47282671928406
+Epoch [183/300], Step [1200/1562], Loss: 15.35962
+Time elasped: 608.0243060588837
+ Acc: 99.14600
+Iters: 182 
+
+
+Test Accuracy of the model on the 10000 test images: 92.630
+Epoch [184/300], Step [600/1562], Loss: 13.13994
+Time elasped: 301.4451081752777
+Epoch [184/300], Step [1200/1562], Loss: 14.96562
+Time elasped: 602.5042114257812
+ Acc: 99.17200
+Iters: 183 
+
+
+Test Accuracy of the model on the 10000 test images: 93.050
+Epoch [185/300], Step [600/1562], Loss: 11.46670
+Time elasped: 304.74150681495667
+Epoch [185/300], Step [1200/1562], Loss: 14.98284
+Time elasped: 609.2731354236603
+ Acc: 99.20600
+Iters: 184 
+
+
+Test Accuracy of the model on the 10000 test images: 92.980
+Epoch [186/300], Step [600/1562], Loss: 10.70302
+Time elasped: 321.0799660682678
+Epoch [186/300], Step [1200/1562], Loss: 12.48432
+Time elasped: 619.8540828227997
+ Acc: 99.25200
+Iters: 185 
+
+
+Test Accuracy of the model on the 10000 test images: 92.800
+Epoch [187/300], Step [600/1562], Loss: 15.72212
+Time elasped: 299.32250452041626
+Epoch [187/300], Step [1200/1562], Loss: 14.07996
+Time elasped: 598.8256793022156
+ Acc: 99.20000
+Iters: 186 
+
+
+Test Accuracy of the model on the 10000 test images: 93.080
+Epoch [188/300], Step [600/1562], Loss: 12.14283
+Time elasped: 300.3556616306305
+Epoch [188/300], Step [1200/1562], Loss: 14.89825
+Time elasped: 596.1263151168823
+ Acc: 99.23400
+Iters: 187 
+
+
+Test Accuracy of the model on the 10000 test images: 92.880
+Epoch [189/300], Step [600/1562], Loss: 12.25622
+Time elasped: 296.25610280036926
+Epoch [189/300], Step [1200/1562], Loss: 13.29961
+Time elasped: 590.2565121650696
+ Acc: 99.22600
+Iters: 188 
+
+
+Test Accuracy of the model on the 10000 test images: 92.650
+Epoch [190/300], Step [600/1562], Loss: 11.72894
+Time elasped: 308.00507712364197
+Epoch [190/300], Step [1200/1562], Loss: 12.77553
+Time elasped: 612.6593821048737
+ Acc: 99.34200
+Iters: 189 
+
+
+Test Accuracy of the model on the 10000 test images: 93.050
+Epoch [191/300], Step [600/1562], Loss: 11.26115
+Time elasped: 306.3114595413208
+Epoch [191/300], Step [1200/1562], Loss: 11.38673
+Time elasped: 641.3558309078217
+ Acc: 99.41000
+Iters: 190 
+
+
+Test Accuracy of the model on the 10000 test images: 93.220
+Epoch [192/300], Step [600/1562], Loss: 11.92717
+Time elasped: 308.8444390296936
+Epoch [192/300], Step [1200/1562], Loss: 13.10891
+Time elasped: 628.5837812423706
+ Acc: 99.29400
+Iters: 191 
+
+
+Test Accuracy of the model on the 10000 test images: 93.280
+Epoch [193/300], Step [600/1562], Loss: 10.28333
+Time elasped: 304.4813115596771
+Epoch [193/300], Step [1200/1562], Loss: 12.10331
+Time elasped: 602.9270293712616
+ Acc: 99.30400
+Iters: 192 
+
+
+Test Accuracy of the model on the 10000 test images: 93.260
+Epoch [194/300], Step [600/1562], Loss: 10.72114
+Time elasped: 301.84535813331604
+Epoch [194/300], Step [1200/1562], Loss: 11.89540
+Time elasped: 605.747298002243
+ Acc: 99.38800
+Iters: 193 
+
+
+Test Accuracy of the model on the 10000 test images: 93.030
+Epoch [195/300], Step [600/1562], Loss: 11.66341
+Time elasped: 302.720272064209
+Epoch [195/300], Step [1200/1562], Loss: 12.79965
+Time elasped: 601.3491706848145
+ Acc: 99.22400
+Iters: 194 
+
+
+Test Accuracy of the model on the 10000 test images: 93.350
+Epoch [196/300], Step [600/1562], Loss: 9.36731
+Time elasped: 301.793851852417
+Epoch [196/300], Step [1200/1562], Loss: 12.17454
+Time elasped: 602.0631771087646
+ Acc: 99.39000
+Iters: 195 
+
+
+Test Accuracy of the model on the 10000 test images: 93.380
+Epoch [197/300], Step [600/1562], Loss: 9.68588
+Time elasped: 353.15957975387573
+Epoch [197/300], Step [1200/1562], Loss: 11.56866
+Time elasped: 672.7830369472504
+ Acc: 99.37800
+Iters: 196 
+
+
+Test Accuracy of the model on the 10000 test images: 92.930
+Epoch [198/300], Step [600/1562], Loss: 10.22296
+Time elasped: 321.64348578453064
+Epoch [198/300], Step [1200/1562], Loss: 10.80408
+Time elasped: 619.1929469108582
+ Acc: 99.41400
+Iters: 197 
+
+
+Test Accuracy of the model on the 10000 test images: 93.510
+Epoch [199/300], Step [600/1562], Loss: 9.03527
+Time elasped: 301.0458171367645
+Epoch [199/300], Step [1200/1562], Loss: 9.06603
+Time elasped: 599.4029431343079
+ Acc: 99.44000
+Iters: 198 
+
+
+Test Accuracy of the model on the 10000 test images: 93.270
+Epoch [200/300], Step [600/1562], Loss: 9.11651
+Time elasped: 298.33045506477356
+Epoch [200/300], Step [1200/1562], Loss: 9.39604
+Time elasped: 594.4073498249054
+ Acc: 99.48200
+Iters: 199 
+
+
+Test Accuracy of the model on the 10000 test images: 93.530
+Epoch [201/300], Step [600/1562], Loss: 8.26772
+Time elasped: 306.1499402523041
+Epoch [201/300], Step [1200/1562], Loss: 11.00602
+Time elasped: 609.5216019153595
+ Acc: 99.43000
+Iters: 200 
+
+
+Test Accuracy of the model on the 10000 test images: 93.400
+Epoch [202/300], Step [600/1562], Loss: 8.54473
+Time elasped: 302.7150092124939
+Epoch [202/300], Step [1200/1562], Loss: 8.71819
+Time elasped: 601.96741771698
+ Acc: 99.48000
+Iters: 201 
+
+
+Test Accuracy of the model on the 10000 test images: 93.350
+Epoch [203/300], Step [600/1562], Loss: 9.27954
+Time elasped: 327.1714029312134
+Epoch [203/300], Step [1200/1562], Loss: 7.68623
+Time elasped: 632.5654675960541
+ Acc: 99.50200
+Iters: 202 
+
+
+Test Accuracy of the model on the 10000 test images: 93.280
+Epoch [204/300], Step [600/1562], Loss: 7.99874
+Time elasped: 296.5336787700653
+Epoch [204/300], Step [1200/1562], Loss: 10.69209
+Time elasped: 590.0744097232819
+ Acc: 99.45200
+Iters: 203 
+
+
+Test Accuracy of the model on the 10000 test images: 93.460
+Epoch [205/300], Step [600/1562], Loss: 8.20041
+Time elasped: 294.180695772171
+Epoch [205/300], Step [1200/1562], Loss: 8.71879
+Time elasped: 588.5925946235657
+ Acc: 99.53200
+Iters: 204 
+
+
+Test Accuracy of the model on the 10000 test images: 93.660
+Epoch [206/300], Step [600/1562], Loss: 7.63310
+Time elasped: 293.21811866760254
+Epoch [206/300], Step [1200/1562], Loss: 9.11861
+Time elasped: 584.3681409358978
+ Acc: 99.56600
+Iters: 205 
+
+
+Test Accuracy of the model on the 10000 test images: 93.530
+Epoch [207/300], Step [600/1562], Loss: 6.90802
+Time elasped: 306.7254240512848
+Epoch [207/300], Step [1200/1562], Loss: 7.30442
+Time elasped: 612.818053483963
+ Acc: 99.64400
+Iters: 206 
+
+
+Test Accuracy of the model on the 10000 test images: 93.470
+Epoch [208/300], Step [600/1562], Loss: 9.71009
+Time elasped: 306.15419030189514
+Epoch [208/300], Step [1200/1562], Loss: 8.45770
+Time elasped: 640.8769280910492
+ Acc: 99.50200
+Iters: 207 
+
+
+Test Accuracy of the model on the 10000 test images: 93.330
+Epoch [209/300], Step [600/1562], Loss: 8.57942
+Time elasped: 310.40883231163025
+Epoch [209/300], Step [1200/1562], Loss: 6.75067
+Time elasped: 620.3306000232697
+ Acc: 99.58800
+Iters: 208 
+
+
+Test Accuracy of the model on the 10000 test images: 93.410
+Epoch [210/300], Step [600/1562], Loss: 7.08073
+Time elasped: 303.6930241584778
+Epoch [210/300], Step [1200/1562], Loss: 7.78320
+Time elasped: 606.0513577461243
+ Acc: 99.53000
+Iters: 209 
+
+
+Test Accuracy of the model on the 10000 test images: 93.080
+Epoch [211/300], Step [600/1562], Loss: 6.73397
+Time elasped: 303.17117381095886
+Epoch [211/300], Step [1200/1562], Loss: 5.74043
+Time elasped: 602.6257696151733
+ Acc: 99.61600
+Iters: 210 
+
+
+Test Accuracy of the model on the 10000 test images: 93.560
+Epoch [212/300], Step [600/1562], Loss: 7.20171
+Time elasped: 300.4452950954437
+Epoch [212/300], Step [1200/1562], Loss: 7.01940
+Time elasped: 598.3394582271576
+ Acc: 99.63000
+Iters: 211 
+
+
+Test Accuracy of the model on the 10000 test images: 93.670
+Epoch [213/300], Step [600/1562], Loss: 8.24135
+Time elasped: 300.56401777267456
+Epoch [213/300], Step [1200/1562], Loss: 7.19241
+Time elasped: 595.9020438194275
+ Acc: 99.55000
+Iters: 212 
+
+
+Test Accuracy of the model on the 10000 test images: 93.500
+Epoch [214/300], Step [600/1562], Loss: 6.01574
+Time elasped: 326.793048620224
+Epoch [214/300], Step [1200/1562], Loss: 7.65916
+Time elasped: 647.4368348121643
+ Acc: 99.60600
+Iters: 213 
+
+
+Test Accuracy of the model on the 10000 test images: 93.790
+Epoch [215/300], Step [600/1562], Loss: 5.27491
+Time elasped: 324.1820785999298
+Epoch [215/300], Step [1200/1562], Loss: 6.30736
+Time elasped: 625.3489289283752
+ Acc: 99.65200
+Iters: 214 
+
+
+Test Accuracy of the model on the 10000 test images: 93.730
+Epoch [216/300], Step [600/1562], Loss: 6.26406
+Time elasped: 305.09032702445984
+Epoch [216/300], Step [1200/1562], Loss: 5.88981
+Time elasped: 605.6429524421692
+ Acc: 99.64400
+Iters: 215 
+
+
+Test Accuracy of the model on the 10000 test images: 93.550
+Epoch [217/300], Step [600/1562], Loss: 5.70977
+Time elasped: 296.373441696167
+Epoch [217/300], Step [1200/1562], Loss: 6.53813
+Time elasped: 587.0354599952698
+ Acc: 99.64200
+Iters: 216 
+
+
+Test Accuracy of the model on the 10000 test images: 93.730
+Epoch [218/300], Step [600/1562], Loss: 5.99058
+Time elasped: 304.4171950817108
+Epoch [218/300], Step [1200/1562], Loss: 5.85390
+Time elasped: 605.8001387119293
+ Acc: 99.65600
+Iters: 217 
+
+
+Test Accuracy of the model on the 10000 test images: 93.640
+Epoch [219/300], Step [600/1562], Loss: 5.16376
+Time elasped: 301.97818875312805
+Epoch [219/300], Step [1200/1562], Loss: 6.20809
+Time elasped: 604.1745204925537
+ Acc: 99.65400
+Iters: 218 
+
+
+Test Accuracy of the model on the 10000 test images: 93.970
+Epoch [220/300], Step [600/1562], Loss: 5.37259
+Time elasped: 351.23495411872864
+Epoch [220/300], Step [1200/1562], Loss: 6.23854
+Time elasped: 668.9067311286926
+ Acc: 99.68400
+Iters: 219 
+
+
+Test Accuracy of the model on the 10000 test images: 93.420
+Epoch [221/300], Step [600/1562], Loss: 4.18234
+Time elasped: 296.0446197986603
+Epoch [221/300], Step [1200/1562], Loss: 6.51548
+Time elasped: 587.6283183097839
+ Acc: 99.68200
+Iters: 220 
+
+
+Test Accuracy of the model on the 10000 test images: 93.460
+Epoch [222/300], Step [600/1562], Loss: 6.40084
+Time elasped: 293.37006759643555
+Epoch [222/300], Step [1200/1562], Loss: 6.14348
+Time elasped: 584.9701452255249
+ Acc: 99.65600
+Iters: 221 
+
+
+Test Accuracy of the model on the 10000 test images: 93.820
+Epoch [223/300], Step [600/1562], Loss: 4.88664
+Time elasped: 291.0237135887146
+Epoch [223/300], Step [1200/1562], Loss: 5.98655
+Time elasped: 580.8551659584045
+ Acc: 99.72000
+Iters: 222 
+
+
+Test Accuracy of the model on the 10000 test images: 93.790
+Epoch [224/300], Step [600/1562], Loss: 4.81108
+Time elasped: 305.1837651729584
+Epoch [224/300], Step [1200/1562], Loss: 4.05034
+Time elasped: 602.8400866985321
+ Acc: 99.78600
+Iters: 223 
+
+
+Test Accuracy of the model on the 10000 test images: 93.570
+Epoch [225/300], Step [600/1562], Loss: 5.48898
+Time elasped: 303.6466443538666
+Epoch [225/300], Step [1200/1562], Loss: 3.86849
+Time elasped: 605.5363337993622
+ Acc: 99.72400
+Iters: 224 
+
+
+Test Accuracy of the model on the 10000 test images: 93.910
+Epoch [226/300], Step [600/1562], Loss: 3.67863
+Time elasped: 314.5982675552368
+Epoch [226/300], Step [1200/1562], Loss: 4.63460
+Time elasped: 630.4488003253937
+ Acc: 99.79200
+Iters: 225 
+
+
+Test Accuracy of the model on the 10000 test images: 93.610
+Epoch [227/300], Step [600/1562], Loss: 3.82673
+Time elasped: 294.0812201499939
+Epoch [227/300], Step [1200/1562], Loss: 4.32694
+Time elasped: 587.9177856445312
+ Acc: 99.75000
+Iters: 226 
+
+
+Test Accuracy of the model on the 10000 test images: 93.430
+Epoch [228/300], Step [600/1562], Loss: 4.79715
+Time elasped: 293.1223883628845
+Epoch [228/300], Step [1200/1562], Loss: 3.45314
+Time elasped: 584.7053060531616
+ Acc: 99.78600
+Iters: 227 
+
+
+Test Accuracy of the model on the 10000 test images: 93.780
+Epoch [229/300], Step [600/1562], Loss: 3.93041
+Time elasped: 291.12587666511536
+Epoch [229/300], Step [1200/1562], Loss: 4.16741
+Time elasped: 580.748955488205
+ Acc: 99.77600
+Iters: 228 
+
+
+Test Accuracy of the model on the 10000 test images: 93.670
+Epoch [230/300], Step [600/1562], Loss: 4.56225
+Time elasped: 305.65379095077515
+Epoch [230/300], Step [1200/1562], Loss: 3.38336
+Time elasped: 609.8760335445404
+ Acc: 99.77400
+Iters: 229 
+
+
+Test Accuracy of the model on the 10000 test images: 93.770
+Epoch [231/300], Step [600/1562], Loss: 4.14574
+Time elasped: 297.24926567077637
+Epoch [231/300], Step [1200/1562], Loss: 4.59578
+Time elasped: 645.3036522865295
+ Acc: 99.76400
+Iters: 230 
+
+
+Test Accuracy of the model on the 10000 test images: 93.750
+Epoch [232/300], Step [600/1562], Loss: 3.55014
+Time elasped: 307.24173760414124
+Epoch [232/300], Step [1200/1562], Loss: 3.86471
+Time elasped: 619.3260452747345
+ Acc: 99.81800
+Iters: 231 
+
+
+Test Accuracy of the model on the 10000 test images: 93.960
+Epoch [233/300], Step [600/1562], Loss: 3.76528
+Time elasped: 301.7833094596863
+Epoch [233/300], Step [1200/1562], Loss: 4.45920
+Time elasped: 602.2470905780792
+ Acc: 99.78800
+Iters: 232 
+
+
+Test Accuracy of the model on the 10000 test images: 94.120
+Epoch [234/300], Step [600/1562], Loss: 3.53943
+Time elasped: 304.4324219226837
+Epoch [234/300], Step [1200/1562], Loss: 3.41656
+Time elasped: 605.3360192775726
+ Acc: 99.81600
+Iters: 233 
+
+
+Test Accuracy of the model on the 10000 test images: 94.050
+Epoch [235/300], Step [600/1562], Loss: 3.26931
+Time elasped: 302.001971244812
+Epoch [235/300], Step [1200/1562], Loss: 3.66772
+Time elasped: 601.8150446414948
+ Acc: 99.81400
+Iters: 234 
+
+
+Test Accuracy of the model on the 10000 test images: 93.870
+Epoch [236/300], Step [600/1562], Loss: 3.31294
+Time elasped: 304.5637295246124
+Epoch [236/300], Step [1200/1562], Loss: 4.24510
+Time elasped: 608.0684840679169
+ Acc: 99.80800
+Iters: 235 
+
+
+Test Accuracy of the model on the 10000 test images: 93.890
+Epoch [237/300], Step [600/1562], Loss: 2.31436
+Time elasped: 345.6059465408325
+Epoch [237/300], Step [1200/1562], Loss: 2.68165
+Time elasped: 662.3197739124298
+ Acc: 99.84800
+Iters: 236 
+
+
+Test Accuracy of the model on the 10000 test images: 93.780
+Epoch [238/300], Step [600/1562], Loss: 2.52741
+Time elasped: 299.6704616546631
+Epoch [238/300], Step [1200/1562], Loss: 2.21662
+Time elasped: 599.6647629737854
+ Acc: 99.86200
+Iters: 237 
+
+
+Test Accuracy of the model on the 10000 test images: 93.780
+Epoch [239/300], Step [600/1562], Loss: 2.93739
+Time elasped: 298.9719965457916
+Epoch [239/300], Step [1200/1562], Loss: 2.81744
+Time elasped: 597.9560222625732
+ Acc: 99.86400
+Iters: 238 
+
+
+Test Accuracy of the model on the 10000 test images: 93.760
+Epoch [240/300], Step [600/1562], Loss: 2.52613
+Time elasped: 295.1869144439697
+Epoch [240/300], Step [1200/1562], Loss: 2.94004
+Time elasped: 589.0133135318756
+ Acc: 99.84000
+Iters: 239 
+
+
+Test Accuracy of the model on the 10000 test images: 93.690
+Epoch [241/300], Step [600/1562], Loss: 3.00449
+Time elasped: 303.7427005767822
+Epoch [241/300], Step [1200/1562], Loss: 2.73765
+Time elasped: 604.7035779953003
+ Acc: 99.85600
+Iters: 240 
+
+
+Test Accuracy of the model on the 10000 test images: 93.860
+Epoch [242/300], Step [600/1562], Loss: 2.76096
+Time elasped: 303.77721190452576
+Epoch [242/300], Step [1200/1562], Loss: 2.33171
+Time elasped: 598.8501756191254
+ Acc: 99.85000
+Iters: 241 
+
+
+Test Accuracy of the model on the 10000 test images: 93.940
+Epoch [243/300], Step [600/1562], Loss: 1.81018
+Time elasped: 317.56376028060913
+Epoch [243/300], Step [1200/1562], Loss: 1.83773
+Time elasped: 641.2684094905853
+ Acc: 99.90000
+Iters: 242 
+
+
+Test Accuracy of the model on the 10000 test images: 93.780
+Epoch [244/300], Step [600/1562], Loss: 1.67192
+Time elasped: 303.777791261673
+Epoch [244/300], Step [1200/1562], Loss: 2.16843
+Time elasped: 604.6757237911224
+ Acc: 99.89800
+Iters: 243 
+
+
+Test Accuracy of the model on the 10000 test images: 93.990
+Epoch [245/300], Step [600/1562], Loss: 2.41816
+Time elasped: 302.14493775367737
+Epoch [245/300], Step [1200/1562], Loss: 2.18900
+Time elasped: 605.1962280273438
+ Acc: 99.88000
+Iters: 244 
+
+
+Test Accuracy of the model on the 10000 test images: 93.920
+Epoch [246/300], Step [600/1562], Loss: 2.18345
+Time elasped: 302.2116391658783
+Epoch [246/300], Step [1200/1562], Loss: 2.63206
+Time elasped: 605.6843507289886
+ Acc: 99.86200
+Iters: 245 
+
+
+Test Accuracy of the model on the 10000 test images: 93.840
+Epoch [247/300], Step [600/1562], Loss: 1.33112
+Time elasped: 303.053414106369
+Epoch [247/300], Step [1200/1562], Loss: 1.53414
+Time elasped: 604.7329235076904
+ Acc: 99.91200
+Iters: 246 
+
+
+Test Accuracy of the model on the 10000 test images: 93.790
+Epoch [248/300], Step [600/1562], Loss: 2.54454
+Time elasped: 307.41727805137634
+Epoch [248/300], Step [1200/1562], Loss: 2.06060
+Time elasped: 652.4539804458618
+ Acc: 99.87000
+Iters: 247 
+
+
+Test Accuracy of the model on the 10000 test images: 94.040
+Epoch [249/300], Step [600/1562], Loss: 1.58446
+Time elasped: 327.25005888938904
+Epoch [249/300], Step [1200/1562], Loss: 1.27814
+Time elasped: 621.744542837143
+ Acc: 99.93600
+Iters: 248 
+
+
+Test Accuracy of the model on the 10000 test images: 93.910
+Epoch [250/300], Step [600/1562], Loss: 2.45117
+Time elasped: 295.20717549324036
+Epoch [250/300], Step [1200/1562], Loss: 2.23841
+Time elasped: 586.4384288787842
+ Acc: 99.88400
+Iters: 249 
+
+
+Test Accuracy of the model on the 10000 test images: 94.090
+Epoch [251/300], Step [600/1562], Loss: 1.30612
+Time elasped: 290.2320432662964
+Epoch [251/300], Step [1200/1562], Loss: 2.21523
+Time elasped: 580.9904358386993
+ Acc: 99.90200
+Iters: 250 
+
+
+Test Accuracy of the model on the 10000 test images: 94.180
+Epoch [252/300], Step [600/1562], Loss: 1.76351
+Time elasped: 292.76653385162354
+Epoch [252/300], Step [1200/1562], Loss: 1.96900
+Time elasped: 581.1086785793304
+ Acc: 99.90400
+Iters: 251 
+
+
+Test Accuracy of the model on the 10000 test images: 94.050
+Epoch [253/300], Step [600/1562], Loss: 1.83800
+Time elasped: 304.1255679130554
+Epoch [253/300], Step [1200/1562], Loss: 2.12731
+Time elasped: 607.0232183933258
+ Acc: 99.89600
+Iters: 252 
+
+
+Test Accuracy of the model on the 10000 test images: 94.400
+Epoch [254/300], Step [600/1562], Loss: 1.43548
+Time elasped: 344.1865031719208
+Epoch [254/300], Step [1200/1562], Loss: 1.51815
+Time elasped: 665.4156718254089
+ Acc: 99.92400
+Iters: 253 
+
+
+Test Accuracy of the model on the 10000 test images: 94.130
+Epoch [255/300], Step [600/1562], Loss: 1.75557
+Time elasped: 293.7011065483093
+Epoch [255/300], Step [1200/1562], Loss: 2.13655
+Time elasped: 584.4943418502808
+ Acc: 99.89400
+Iters: 254 
+
+
+Test Accuracy of the model on the 10000 test images: 94.160
+Epoch [256/300], Step [600/1562], Loss: 1.82327
+Time elasped: 293.0697796344757
+Epoch [256/300], Step [1200/1562], Loss: 1.30950
+Time elasped: 584.2001304626465
+ Acc: 99.93200
+Iters: 255 
+
+
+Test Accuracy of the model on the 10000 test images: 94.300
+Epoch [257/300], Step [600/1562], Loss: 1.05805
+Time elasped: 292.2116403579712
+Epoch [257/300], Step [1200/1562], Loss: 1.18611
+Time elasped: 583.529262304306
+ Acc: 99.94000
+Iters: 256 
+
+
+Test Accuracy of the model on the 10000 test images: 94.340
+Epoch [258/300], Step [600/1562], Loss: 0.98912
+Time elasped: 303.51057291030884
+Epoch [258/300], Step [1200/1562], Loss: 1.25533
+Time elasped: 606.0931878089905
+ Acc: 99.94400
+Iters: 257 
+
+
+Test Accuracy of the model on the 10000 test images: 94.240
+Epoch [259/300], Step [600/1562], Loss: 1.49198
+Time elasped: 304.03998279571533
+Epoch [259/300], Step [1200/1562], Loss: 1.17946
+Time elasped: 595.364976644516
+ Acc: 99.92800
+Iters: 258 
+
+
+Test Accuracy of the model on the 10000 test images: 94.070
+Epoch [260/300], Step [600/1562], Loss: 1.30609
+Time elasped: 311.7907133102417
+Epoch [260/300], Step [1200/1562], Loss: 0.80481
+Time elasped: 633.5685486793518
+ Acc: 99.94400
+Iters: 259 
+
+
+Test Accuracy of the model on the 10000 test images: 94.360
+Epoch [261/300], Step [600/1562], Loss: 0.79542
+Time elasped: 300.71716046333313
+Epoch [261/300], Step [1200/1562], Loss: 1.06081
+Time elasped: 602.3999891281128
+ Acc: 99.95600
+Iters: 260 
+
+
+Test Accuracy of the model on the 10000 test images: 94.210
+Epoch [262/300], Step [600/1562], Loss: 0.86496
+Time elasped: 302.8131742477417
+Epoch [262/300], Step [1200/1562], Loss: 1.04082
+Time elasped: 604.5461163520813
+ Acc: 99.95800
+Iters: 261 
+
+
+Test Accuracy of the model on the 10000 test images: 94.340
+Epoch [263/300], Step [600/1562], Loss: 0.85689
+Time elasped: 301.1561629772186
+Epoch [263/300], Step [1200/1562], Loss: 1.06242
+Time elasped: 604.3327848911285
+ Acc: 99.94800
+Iters: 262 
+
+
+Test Accuracy of the model on the 10000 test images: 94.190
+Epoch [264/300], Step [600/1562], Loss: 1.10549
+Time elasped: 305.64405369758606
+Epoch [264/300], Step [1200/1562], Loss: 0.81641
+Time elasped: 611.6168546676636
+ Acc: 99.95600
+Iters: 263 
+
+
+Test Accuracy of the model on the 10000 test images: 94.340
+Epoch [265/300], Step [600/1562], Loss: 0.75123
+Time elasped: 292.36739325523376
+Epoch [265/300], Step [1200/1562], Loss: 0.62099
+Time elasped: 642.6028232574463
+ Acc: 99.97400
+Iters: 264 
+
+
+Test Accuracy of the model on the 10000 test images: 94.260
+Epoch [266/300], Step [600/1562], Loss: 0.55446
+Time elasped: 315.13998889923096
+Epoch [266/300], Step [1200/1562], Loss: 1.06031
+Time elasped: 617.2141199111938
+ Acc: 99.96000
+Iters: 265 
+
+
+Test Accuracy of the model on the 10000 test images: 94.390
+Epoch [267/300], Step [600/1562], Loss: 0.82110
+Time elasped: 302.5662429332733
+Epoch [267/300], Step [1200/1562], Loss: 1.03057
+Time elasped: 605.9733579158783
+ Acc: 99.95000
+Iters: 266 
+
+
+Test Accuracy of the model on the 10000 test images: 94.370
+Epoch [268/300], Step [600/1562], Loss: 0.71405
+Time elasped: 296.9418075084686
+Epoch [268/300], Step [1200/1562], Loss: 0.89655
+Time elasped: 585.0698838233948
+ Acc: 99.96400
+Iters: 267 
+
+
+Test Accuracy of the model on the 10000 test images: 94.290
+Epoch [269/300], Step [600/1562], Loss: 0.53437
+Time elasped: 306.6658797264099
+Epoch [269/300], Step [1200/1562], Loss: 0.55939
+Time elasped: 610.5746812820435
+ Acc: 99.97400
+Iters: 268 
+
+
+Test Accuracy of the model on the 10000 test images: 94.370
+Epoch [270/300], Step [600/1562], Loss: 1.07562
+Time elasped: 303.5948860645294
+Epoch [270/300], Step [1200/1562], Loss: 0.85217
+Time elasped: 607.4984726905823
+ Acc: 99.95800
+Iters: 269 
+
+
+Test Accuracy of the model on the 10000 test images: 94.280
+Epoch [271/300], Step [600/1562], Loss: 0.99632
+Time elasped: 356.1462686061859
+Epoch [271/300], Step [1200/1562], Loss: 0.75389
+Time elasped: 679.7956273555756
+ Acc: 99.96600
+Iters: 270 
+
+
+Test Accuracy of the model on the 10000 test images: 94.250
+Epoch [272/300], Step [600/1562], Loss: 0.51716
+Time elasped: 302.86283707618713
+Epoch [272/300], Step [1200/1562], Loss: 0.64003
+Time elasped: 604.4959902763367
+ Acc: 99.97400
+Iters: 271 
+
+
+Test Accuracy of the model on the 10000 test images: 94.350
+Epoch [273/300], Step [600/1562], Loss: 0.67403
+Time elasped: 304.9848349094391
+Epoch [273/300], Step [1200/1562], Loss: 0.62992
+Time elasped: 606.6856470108032
+ Acc: 99.96800
+Iters: 272 
+
+
+Test Accuracy of the model on the 10000 test images: 94.130
+Epoch [274/300], Step [600/1562], Loss: 0.55456
+Time elasped: 302.23913383483887
+Epoch [274/300], Step [1200/1562], Loss: 0.72267
+Time elasped: 599.7942533493042
+ Acc: 99.95600
+Iters: 273 
+
+
+Test Accuracy of the model on the 10000 test images: 94.280
+Epoch [275/300], Step [600/1562], Loss: 0.76896
+Time elasped: 297.9986231327057
+Epoch [275/300], Step [1200/1562], Loss: 0.63481
+Time elasped: 597.6905879974365
+ Acc: 99.96800
+Iters: 274 
+
+
+Test Accuracy of the model on the 10000 test images: 94.200
+Epoch [276/300], Step [600/1562], Loss: 0.65685
+Time elasped: 302.4435634613037
+Epoch [276/300], Step [1200/1562], Loss: 0.50168
+Time elasped: 627.0435218811035
+ Acc: 99.97400
+Iters: 275 
+
+
+Test Accuracy of the model on the 10000 test images: 94.360
+Epoch [277/300], Step [600/1562], Loss: 0.41700
+Time elasped: 310.6654074192047
+Epoch [277/300], Step [1200/1562], Loss: 0.55537
+Time elasped: 626.9564228057861
+ Acc: 99.97800
+Iters: 276 
+
+
+Test Accuracy of the model on the 10000 test images: 94.330
+Epoch [278/300], Step [600/1562], Loss: 0.39487
+Time elasped: 296.4006407260895
+Epoch [278/300], Step [1200/1562], Loss: 0.47409
+Time elasped: 591.2163405418396
+ Acc: 99.97800
+Iters: 277 
+
+
+Test Accuracy of the model on the 10000 test images: 94.350
+Epoch [279/300], Step [600/1562], Loss: 0.42606
+Time elasped: 295.4076581001282
+Epoch [279/300], Step [1200/1562], Loss: 0.35710
+Time elasped: 593.8115034103394
+ Acc: 99.98200
+Iters: 278 
+
+
+Test Accuracy of the model on the 10000 test images: 94.600
+Epoch [280/300], Step [600/1562], Loss: 0.50571
+Time elasped: 297.91330432891846
+Epoch [280/300], Step [1200/1562], Loss: 0.45816
+Time elasped: 594.7319514751434
+ Acc: 99.97800
+Iters: 279 
+
+
+Test Accuracy of the model on the 10000 test images: 94.240
+Epoch [281/300], Step [600/1562], Loss: 0.45636
+Time elasped: 298.17788314819336
+Epoch [281/300], Step [1200/1562], Loss: 0.47818
+Time elasped: 595.9188113212585
+ Acc: 99.98200
+Iters: 280 
+
+
+Test Accuracy of the model on the 10000 test images: 94.480
+Epoch [282/300], Step [600/1562], Loss: 0.60152
+Time elasped: 330.7284595966339
+Epoch [282/300], Step [1200/1562], Loss: 0.36883
+Time elasped: 650.0055088996887
+ Acc: 99.97400
+Iters: 281 
+
+
+Test Accuracy of the model on the 10000 test images: 94.680
+Epoch [283/300], Step [600/1562], Loss: 0.70701
+Time elasped: 324.7645401954651
+Epoch [283/300], Step [1200/1562], Loss: 0.35894
+Time elasped: 628.6475079059601
+ Acc: 99.97600
+Iters: 282 
+
+
+Test Accuracy of the model on the 10000 test images: 94.380
+Epoch [284/300], Step [600/1562], Loss: 0.46463
+Time elasped: 301.6774401664734
+Epoch [284/300], Step [1200/1562], Loss: 0.38989
+Time elasped: 602.3015720844269
+ Acc: 99.97800
+Iters: 283 
+
+
+Test Accuracy of the model on the 10000 test images: 94.610
+Epoch [285/300], Step [600/1562], Loss: 0.48021
+Time elasped: 298.30226135253906
+Epoch [285/300], Step [1200/1562], Loss: 0.38968
+Time elasped: 598.5866734981537
+ Acc: 99.98600
+Iters: 284 
+
+
+Test Accuracy of the model on the 10000 test images: 94.450
+Epoch [286/300], Step [600/1562], Loss: 0.42783
+Time elasped: 297.41686367988586
+Epoch [286/300], Step [1200/1562], Loss: 0.60060
+Time elasped: 593.5714583396912
+ Acc: 99.98000
+Iters: 285 
+
+
+Test Accuracy of the model on the 10000 test images: 94.360
+Epoch [287/300], Step [600/1562], Loss: 0.36225
+Time elasped: 299.4759178161621
+Epoch [287/300], Step [1200/1562], Loss: 0.49378
+Time elasped: 598.268884897232
+ Acc: 99.98000
+Iters: 286 
+
+
+Test Accuracy of the model on the 10000 test images: 94.440
+Epoch [288/300], Step [600/1562], Loss: 0.35856
+Time elasped: 322.40858602523804
+Epoch [288/300], Step [1200/1562], Loss: 0.61008
+Time elasped: 627.3118898868561
+ Acc: 99.98400
+Iters: 287 
+
+
+Test Accuracy of the model on the 10000 test images: 94.680
+Epoch [289/300], Step [600/1562], Loss: 0.39350
+Time elasped: 300.20582365989685
+Epoch [289/300], Step [1200/1562], Loss: 0.41441
+Time elasped: 594.4738414287567
+ Acc: 99.98200
+Iters: 288 
+
+
+Test Accuracy of the model on the 10000 test images: 94.680
+Epoch [290/300], Step [600/1562], Loss: 0.46555
+Time elasped: 298.9274582862854
+Epoch [290/300], Step [1200/1562], Loss: 0.45249
+Time elasped: 596.3709485530853
+ Acc: 99.98200
+Iters: 289 
+
+
+Test Accuracy of the model on the 10000 test images: 94.490
+Epoch [291/300], Step [600/1562], Loss: 0.33877
+Time elasped: 297.58131217956543
+Epoch [291/300], Step [1200/1562], Loss: 0.38509
+Time elasped: 592.7921950817108
+ Acc: 99.97800
+Iters: 290 
+
+
+Test Accuracy of the model on the 10000 test images: 94.350
+Epoch [292/300], Step [600/1562], Loss: 0.30502
+Time elasped: 297.3534982204437
+Epoch [292/300], Step [1200/1562], Loss: 0.61279
+Time elasped: 597.2471535205841
+ Acc: 99.98200
+Iters: 291 
+
+
+Test Accuracy of the model on the 10000 test images: 94.450
+Epoch [293/300], Step [600/1562], Loss: 0.51390
+Time elasped: 300.6686017513275
+Epoch [293/300], Step [1200/1562], Loss: 0.24786
+Time elasped: 627.5448846817017
+ Acc: 99.98200
+Iters: 292 
+
+
+Test Accuracy of the model on the 10000 test images: 94.400
+Epoch [294/300], Step [600/1562], Loss: 0.42770
+Time elasped: 311.5206174850464
+Epoch [294/300], Step [1200/1562], Loss: 0.40648
+Time elasped: 632.9340279102325
+ Acc: 99.98600
+Iters: 293 
+
+
+Test Accuracy of the model on the 10000 test images: 94.550
+Epoch [295/300], Step [600/1562], Loss: 0.39653
+Time elasped: 296.8562605381012
+Epoch [295/300], Step [1200/1562], Loss: 0.49122
+Time elasped: 593.3634476661682
+ Acc: 99.98200
+Iters: 294 
+
+
+Test Accuracy of the model on the 10000 test images: 94.430
+Epoch [296/300], Step [600/1562], Loss: 0.39844
+Time elasped: 298.9034595489502
+Epoch [296/300], Step [1200/1562], Loss: 0.36707
+Time elasped: 597.4720950126648
+ Acc: 99.98800
+Iters: 295 
+
+
+Test Accuracy of the model on the 10000 test images: 94.550
+Epoch [297/300], Step [600/1562], Loss: 0.18083
+Time elasped: 300.14833331108093
+Epoch [297/300], Step [1200/1562], Loss: 0.38370
+Time elasped: 599.2060668468475
+ Acc: 99.99400
+Iters: 296 
+
+
+Test Accuracy of the model on the 10000 test images: 94.350
+Epoch [298/300], Step [600/1562], Loss: 0.31524
+Time elasped: 300.2796585559845
+Epoch [298/300], Step [1200/1562], Loss: 0.30379
+Time elasped: 598.6973779201508
+ Acc: 99.99400
+Iters: 297 
+
+
+Test Accuracy of the model on the 10000 test images: 94.590
+Epoch [299/300], Step [600/1562], Loss: 0.46971
+Time elasped: 315.3465096950531
+Epoch [299/300], Step [1200/1562], Loss: 0.38536
+Time elasped: 641.7195110321045
+ Acc: 99.97800
+Iters: 298 
+
+
+Test Accuracy of the model on the 10000 test images: 94.530
+Epoch [300/300], Step [600/1562], Loss: 0.27920
+Time elasped: 319.17212104797363
+Epoch [300/300], Step [1200/1562], Loss: 0.30396
+Time elasped: 616.6761384010315
+ Acc: 99.98800
+Iters: 299 
+
+
+Test Accuracy of the model on the 10000 test images: 94.470
