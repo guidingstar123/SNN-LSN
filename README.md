@@ -1,5 +1,6 @@
 # LSN
 Our code is divided by dataset, and we upload our original records.
+Pretrained model link : https://drive.google.com/drive/folders/1sg0faf4a9bO10I4af3jaOx7lRAtH8CSL?usp=sharing
 
 For example, the performance of LSN on the ImageNet dataset can be reproduced with the following command:
 ```
